@@ -28,7 +28,7 @@ export default function App() {
     >
       <Drawer.Navigator>
         <Drawer.Screen
-          name="Home"
+          name="HOME"
           component={HomeScreen}
           options={{
             drawerIcon: ({ color, size }) => (
@@ -37,7 +37,7 @@ export default function App() {
           }}
         />
         <Drawer.Screen
-          name="All"
+          name="ALL"
           component={AllJokesScreen}
           options={{
             drawerIcon: ({ color, size }) => (
@@ -46,7 +46,7 @@ export default function App() {
           }}
         />
         <Drawer.Screen
-          name="General"
+          name="GENERAL"
           component={GeneralJokesScreen}
           options={{
             drawerIcon: ({ color, size }) => (
@@ -55,7 +55,7 @@ export default function App() {
           }}
         />
         <Drawer.Screen
-          name="Knock-Knock"
+          name="KNOCK-KNOCK"
           component={KnockJokesScreen}
           options={{
             drawerIcon: ({ color, size }) => (
@@ -64,7 +64,7 @@ export default function App() {
           }}
         />
         <Drawer.Screen
-          name="Programming"
+          name="PROGRAMMING"
           component={ProgrammingJokesScreen}
           options={{
             drawerIcon: ({ color, size }) => (
@@ -73,7 +73,7 @@ export default function App() {
           }}
         />
         <Drawer.Screen
-          name="About"
+          name="ABOUT"
           component={AboutScreen}
           options={{
             drawerIcon: ({ size, color }) => (

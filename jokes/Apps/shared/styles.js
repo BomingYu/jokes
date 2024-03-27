@@ -8,6 +8,9 @@ export const styles = StyleSheet.create({
     buttonBackground:{
         backgroundColor: 'rgba(0, 0, 0, 0.7)',
     },
+    buttonDarkBackground:{
+        backgroundColor: 'rgba(255, 255, 255, 0.7)',
+    },
     naviBackground:{
         backgroundColor:'black'
     }
