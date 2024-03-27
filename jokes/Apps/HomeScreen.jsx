@@ -36,12 +36,14 @@ export default function HomeScreen() {
   }, []);
 
   const goToAllJokes = () => {
-    //navigator.navigate('ALL')
-    console.log(color);
+    const params = {jokes}
+    navigator.navigate('ALL',params)
+    //console.log(color);
   };
   const goToJokesScreen = (type) => {
     const jokeType = type.toLowerCase();
-    const params = { jokeType: jokeType };
+    //const params = { jokeType: jokeType };
+    const params = {jokes}
     navigator.navigate(type, params);
     console.log(params);
   };
