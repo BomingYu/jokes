@@ -16,3 +16,47 @@ Welcome to **Jokes**, the ultimate app for endless laughter and fun! This mobile
 - **Tailwind CSS:** Utility-first CSS framework for styling.
 - **External API:** Fetching jokes data from [https://api.sampleapis.com/jokes/goodJokes/].
 
+## 4. Screens
+- **Menus**
+<div style="display: flex; justify-content: center;">
+    <img src="./reportImages/menuDark.jpg" alt="Screenshot 1" width="200" style="margin-right: 10px;">
+    <img src="./reportImages/menuDark2.jpg" alt="Screenshot 2" width="200" style="margin-right: 10px;">
+    <img src="./reportImages/menuLight.jpg" alt="Screenshot 3" width="200">
+</div>
+
+- **Home Screens**
+<div style="display: flex; justify-content: center;">
+    <img src="./reportImages/homeDark.jpg" alt="Screenshot 1" width="200" style="margin-right: 10px;">
+    <img src="./reportImages/homeLight.jpg" alt="Screenshot 2" width="200">
+</div>
+
+- **Jokes Screen**
+<div style="display: flex; justify-content: center;">
+    <img src="./reportImages/allDark.jpg" alt="Screenshot 1" width="200" style="margin-right: 10px;">
+    <img src="./reportImages/Alldark2.jpg" alt="Screenshot 2" width="200" style="margin-right: 10px;">
+    <img src="./reportImages/allLight.jpg" alt="Screenshot 3" width="200" style="margin-right: 10px;">
+    <img src="./reportImages/allLight2.jpg" alt="Screenshot 4" width="200" style="margin-right: 10px;">
+    <img src="./reportImages/allLight3.jpg" alt="Screenshot 5" width="200" style="margin-right: 10px;">
+    <img src="./reportImages/generalDark.jpg" alt="Screenshot 6" width="200" style="margin-right: 10px;">
+    <img src="./reportImages/knockLight.jpg" alt="Screenshot 7" width="200" style="margin-right: 10px;">
+    <img src="./reportImages/progDark.jpg" alt="Screenshot 8" width="200" style="margin-right: 10px;">
+    <img src="./reportImages/progLight.jpg" alt="Screenshot 9" width="200">
+</div>
+
+## 5. How To Use
+
+## 4. Usage
+
+```bash
+# Clone The Project
+git clone https://github.com/BomingYu/jokes.git
+
+# Enter The Project
+cd joke/jokes
+
+# Install Dependencies
+npm install
+
+# Start The Application
+npx expo start
+```
