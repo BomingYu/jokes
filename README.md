@@ -44,9 +44,6 @@ Welcome to **Jokes**, the ultimate app for endless laughter and fun! This mobile
 </div>
 
 ## 5. How To Use
-
-## 4. Usage
-
 ```bash
 # Clone The Project
 git clone https://github.com/BomingYu/jokes.git
