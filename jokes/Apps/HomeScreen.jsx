@@ -6,7 +6,6 @@ import axios from "axios";
 import LoadingComponent from "./shared/LoadingComponent";
 import { TouchableOpacity } from "react-native-gesture-handler";
 import { useNavigation } from "@react-navigation/native";
-import AllJokesScreen from "./AllJokesScreen";
 import { useColorScheme } from "nativewind";
 
 export default function HomeScreen() {
